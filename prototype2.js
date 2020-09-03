@@ -1,3 +1,4 @@
+//SOAL PROTOTYPE 2-----------------------------
 Number.prototype.primeCheck = function (n) {
   if (n === 1) {
     return false;
@@ -13,3 +14,4 @@ Number.prototype.primeCheck = function (n) {
   }
 };
 console.log(Number.prototype.primeCheck(9));
+//----------------------------------------------
