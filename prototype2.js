@@ -13,5 +13,5 @@ Number.prototype.primeCheck = function (n) {
         return true;
   }
 };
-console.log(Number.prototype.primeCheck(9));
+console.log(Number.prototype.primeCheck(93));
 //----------------------------------------------
